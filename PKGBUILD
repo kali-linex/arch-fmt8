@@ -40,7 +40,6 @@ build() {
     -DCMAKE_INSTALL_LIBDIR=/usr/lib \
     -DBUILD_SHARED_LIBS=ON
   cmake --build build
-  cmake --build build --target doc
 }
 
 check() {
