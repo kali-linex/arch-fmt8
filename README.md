@@ -3,7 +3,7 @@ Mildly hacky PKGBUILD for making `python-pytorch-rocm[-opt]` work on Arch (it re
 
 ## Installation
 
-	```
-	git clone https://github.com/kali-linex/arch-fmt8
-	makepkg -si
-	```
+```bash
+git clone https://github.com/kali-linex/arch-fmt8
+makepkg -si
+```
